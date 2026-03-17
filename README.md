@@ -1,4 +1,4 @@
-Student Marks Analysis Project
+ # Student Marks Analysis Project
 Overview
 
 This is a Python project that analyzes student marks using the Pandas library.
@@ -64,6 +64,6 @@ Pandas library for data analysis
 
 CSV files for input/output
 
-Author
+ # Author
 
 Raja Qasim Javed Khan
